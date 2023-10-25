@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CheeseyDanish
 - 👀 I’m interested in making game projects, art, modeling, and anything else! I love learning new things altho I tend to jump from project to project
-- 🌱 I’m currently learning how to use blender and unity 
 - 📫 How to reach me! email andrewsimon2918@gmail.com if you'd like to email me... For some reason...
 
 <!---
