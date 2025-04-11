@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @CheeseyDanish
-- 👀 I’m interested in making game projects, art, modeling, and anything else! I love learning new things altho I tend to jump from project to project
-- 📫 How to reach me! email andrewsimon2918@gmail.com if you'd like to email me... For some reason...
+- 👀 I’m interested in bettering myself, improving skills, learning new ones and becoming a better person and programmer.
+- I have a bachelors in Computer Science - Honours Applied Computing.
+- I am especially interested in Information Technology, I enjoy working with other people and working on my interpersonal skills.
+- 📫 How to reach me! email andrewsimon2918@gmail.com if you'd like to email me.
 
 <!---
 CheeseyDanish/CheeseyDanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
