@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CheeseyDanish
+- 👋 Hi, I’m Andrew Simon, aka CheeseyDanish
 - 👀 I’m interested in bettering myself, improving skills, learning new ones and becoming a better person and programmer.
 - I have a bachelors in Computer Science - Honours Applied Computing.
 - I am especially interested in Information Technology, I enjoy working with other people and working on my interpersonal skills.
